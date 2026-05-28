@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /hidden/nothing-to-see-here.html
